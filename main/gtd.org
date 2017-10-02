@@ -1,0 +1,27 @@
+#+TITLE: Organize My Life In Plain Text!
+#+AUTHOR: 胡琛
+#+CAPTION: 诚实面对自己
+
+* Work 
+  
+** Tasks
+   
+** Projects
+
+* Personal
+
+** Tasks
+
+** Projects
+
+* Habits
+  
+** 健身房
+
+** 自由搏击
+
+* Miscellaneous
+  
+** TODOs 
+
+** Responses
